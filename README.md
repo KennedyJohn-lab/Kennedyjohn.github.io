@@ -57,7 +57,7 @@ border-radius:10px;
 
 <div class="section">
 <h2>Contact</h2>
-<p>Email: your-email@example.com</p>
+<p>Email:Kj052572@gmail.com</p>
 </div>
 
 </body>
